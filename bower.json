@@ -1,0 +1,20 @@
+{
+  "name": "001-angularjsChile Binding",
+  "version": "0.0.0",
+  "homepage": "https://github.com/Angularjschile/001-angularjsChile-Binding",
+  "authors": [
+    "Administrador <gbelmm@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies":{
+    "jquery": "2.0",
+    "angular": "1.2.23"
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
